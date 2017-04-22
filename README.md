@@ -4,7 +4,7 @@ Framework para geração e comunicação das NFe com as SEFAZ autorizadoras, e v
 
 Esta versão do pacote ainda está em desenvolvimento [FASE BETA TEST], pode não estar totalmente funcional e não deve ser utilizado para nada além de testes.
 
-## Este release está sendo preparado para atender as verões 3.10 e 4.0 do layout da SEFAZ!
+## Este release está sendo preparado para atender as versões 3.10 e 4.0 do layout da SEFAZ!
 
 > ### Versão 4.0 do layout da SEFAZ
 
